@@ -1,0 +1,5 @@
+
+========== Student 1 ==========
+Name: k
+Age: e
+Department: d
